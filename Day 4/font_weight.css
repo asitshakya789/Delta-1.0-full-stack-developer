@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-decoration:  pink line-through;
+}
+h2{
+    text-align: center;
+    text-decoration: overline;
+}
+p{
+    text-align: justify;
+    font-weight:bold ;
+    line-height: normal;
+    letter-spacing: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
