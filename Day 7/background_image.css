@@ -1,0 +1,8 @@
+div{
+    width: 400px;
+    height: 200px;
+    background-color: tomato;
+    margin: 10px auto;
+    background-image: url("Screenshot\ 2023-09-14\ 151810.png");
+    background-size: contain;
+}
